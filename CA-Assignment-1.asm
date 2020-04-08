@@ -54,9 +54,9 @@ END
 
 
 
-;============ Adding three values using three registers, and initializing its values. Using ARM assembly language  =============
+;===== Adding three values using three registers, and initializing its values. Using ARM assembly language  =======
 
-AREA Example2, CODE, READONLY
+AREA Exam ple2, CODE, READONLY
      MOV r1,#Q ;load r1 with the constant Q
      MOV r2,#R ;load r2 with the constant R
      MOV r3,#S ;load r3 with the constant S
@@ -72,7 +72,7 @@ END
 
 
 
-;===============================================================================================================================================
+;=================================================================================================================================
 ; Adding three values using three initialized registers, and store the result in another one. Using X86 assembly language Example.
 
 .data
