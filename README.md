@@ -1,2 +1,2 @@
 # Computer Architecture Assignments
-Computer Architecture (CS320) Assignments represented in my tutrials.
+Computer Architecture (CS320) Assignments presents in my tutrials.
